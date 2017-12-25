@@ -24,12 +24,14 @@ int main (int argc, char **argv)
 	while (1)
 	{
 		printf("Effect: path_text\n");
-		effect_path_text(2000, "HIT 2018");
+		effect_path_text(2000, "HIT  2018");
 		printf("Effect: linespin\n");
 		linespin(2000,100);
 		printf("Effect: stringfly");
 		effect_stringfly2("HIT 2018");
-
+		printf("Effect: stringfly");
+		effect_stringfly2("HIT 2018");
+		effect_smileyspin (int 100, 100, bitmaps[0])
 	}
 
 }
