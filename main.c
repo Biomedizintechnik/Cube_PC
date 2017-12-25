@@ -31,7 +31,7 @@ int main (int argc, char **argv)
 		effect_stringfly2("HIT 2018");
 		printf("Effect: stringfly");
 		effect_stringfly2("HIT 2018");
-		effect_smileyspin (int 100, 100, bitmaps[0])
+		effect_smileyspin (100, 100, bitmaps[0])
 	}
 
 }
